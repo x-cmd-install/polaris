@@ -7,7 +7,7 @@ about:
   head: a4ca8b6
   archived: false
   latestVersion: v10.2.2
-  collectedAt: 2026-09-04T19:53:29Z
+  collectedAt: 2026-09-04T20:49:05Z
 timeline:
   created: 2018-11-15
   lastCommit: 2026-09-03
@@ -85,6 +85,64 @@ total:
   openIssue: 10
   commit: 1108
 ---
+path: /home/runner/.x-repo/github.com/FairwindsOps/polaris
+collectedAt: 2026-09-04T20:49:08Z
+loc:
+  Json:
+    code: 18700
+    comments: 0
+    blanks: 0
+    files: 4
+  Yaml:
+    code: 9482
+    comments: 277
+    blanks: 56
+    files: 410
+  Go:
+    code: 7135
+    comments: 652
+    blanks: 842
+    files: 44
+  Css:
+    code: 606
+    comments: 129
+    blanks: 170
+    files: 8
+  Gohtml:
+    code: 343
+    comments: 2
+    blanks: 13
+    files: 6
+  Sh:
+    code: 219
+    comments: 13
+    blanks: 45
+    files: 6
+  Svg:
+    code: 135
+    comments: 1
+    blanks: 1
+    files: 14
+  JavaScript:
+    code: 98
+    comments: 12
+    blanks: 6
+    files: 5
+  Dockerfile:
+    code: 16
+    comments: 1
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1021
+    blanks: 294
+    files: 17
+total:
+  code: 36941
+  comments: 2112
+  blanks: 1434
+  files: 515
 ---
 date: "2026-08-24"
 repo:
