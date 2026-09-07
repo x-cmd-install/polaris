@@ -5,7 +5,7 @@ about:
   head: a4ca8b6
   archived: false
   latestVersion: "v10.2.2"
-  collectedAt: 2026-09-07T06:14:24Z
+  collectedAt: 2026-09-07T18:19:25Z
 timeline:
   created: 2018-11-15
   lastCommit: 2026-09-03
@@ -16,7 +16,7 @@ popularity:
   fork: 232
   release: 108
   contributor: 56
-  pullRequest: 972
+  pullRequest: 973
   issue: 259
 language:
   Go: 262928
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 12
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 12
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 18
-    openPR: 4
+    openPR: 5
     closedIssue: 1
     openIssue: 1
     commit: 20
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-09
     release: 2
     mergedPR: 21
-    openPR: 4
+    openPR: 5
     closedIssue: 3
     openIssue: 1
     commit: 24
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-11
     release: 5
     mergedPR: 28
-    openPR: 5
+    openPR: 6
     closedIssue: 6
     openIssue: 1
     commit: 37
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-12
     release: 10
     mergedPR: 33
-    openPR: 5
+    openPR: 6
     closedIssue: 7
     openIssue: 1
     commit: 46
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-17
     release: 21
     mergedPR: 60
-    openPR: 5
+    openPR: 6
     closedIssue: 18
     openIssue: 1
     commit: 85
 total:
   release: 108
   mergedPR: 627
-  openPR: 5
+  openPR: 6
   closedIssue: 249
   openIssue: 10
   commit: 1108
 ---
 path: /home/runner/.x-repo/github.com/FairwindsOps/polaris
-collectedAt: 2026-09-07T06:14:30Z
+collectedAt: 2026-09-07T18:19:31Z
 loc:
   Json:
     code: 18700
@@ -239,7 +239,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:14:31+00:00
+  collectedAt: 2026-09-07T18:19:32+00:00
   platform:
     darwin/arm64:
       name:  polaris_10.2.2_darwin_arm64.tar.gz
