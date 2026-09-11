@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 704,
       "digest": "sha256:c0943028e0943be78ac5fbcbe688b354325c8f7587266c6f96b7e750e4c739ad",
-      "download_count": 690,
+      "download_count": 713,
       "created_at": "2026-08-10T13:34:58Z",
       "updated_at": "2026-08-10T13:34:58Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3755,
       "digest": "sha256:d4baa64f5e20c7e8748f69457e2389ce6c08039cfd23047e478ae9ae4c271e51",
-      "download_count": 423,
+      "download_count": 440,
       "created_at": "2026-08-10T13:34:59Z",
       "updated_at": "2026-08-10T13:35:00Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.2/checksums.txt.sigstore.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15724702,
       "digest": "sha256:862305442292c6ba8d4d84b8d840e6c77aebf785f410929de2d81bcf72758187",
-      "download_count": 4361,
+      "download_count": 4562,
       "created_at": "2026-08-10T13:34:58Z",
       "updated_at": "2026-08-10T13:34:59Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.2/polaris_10.2.2_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14013414,
       "digest": "sha256:d749c0fe048b25d2d389df84f6656b6c772fb7231613dadb1d490504fa86775e",
-      "download_count": 232,
+      "download_count": 233,
       "created_at": "2026-08-10T13:34:57Z",
       "updated_at": "2026-08-10T13:34:57Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.2/polaris_10.2.2_linux_arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 14794940,
       "digest": "sha256:60132e855e7769ba21012e7bba451a0696be3a74275b7dbc0279ffc63c80b395",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-10T13:34:58Z",
       "updated_at": "2026-08-10T13:34:59Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.2/polaris_10.2.2_linux_armv7.tar.gz"
