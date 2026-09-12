@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.2.2` (2026-08-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 627 · **Open PRs**: 6 · **Closed issues**: 249 · **Open issues**: 11 · **Commits**: 1109
+- **Releases**: 108 · **Merged PRs**: 628 · **Open PRs**: 5 · **Closed issues**: 249 · **Open issues**: 11 · **Commits**: 1111
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 11 | 3 | 0 | 1 | 13 |
-| last60d | 2026-07-13 | 2 | 18 | 5 | 1 | 2 | 21 |
-| 90d | 2026-06-13 | 2 | 21 | 6 | 2 | 2 | 25 |
-| last180d | 2026-03-15 | 5 | 28 | 6 | 6 | 2 | 38 |
-| 360d | 2025-09-16 | 10 | 33 | 6 | 7 | 2 | 47 |
-| last720d | 2024-09-21 | 20 | 60 | 6 | 18 | 2 | 77 |
+| 30d | 2026-08-13 | 0 | 12 | 2 | 0 | 1 | 15 |
+| last60d | 2026-07-14 | 2 | 19 | 4 | 1 | 2 | 23 |
+| 90d | 2026-06-14 | 2 | 22 | 5 | 2 | 2 | 27 |
+| last180d | 2026-03-16 | 5 | 29 | 5 | 6 | 2 | 40 |
+| 360d | 2025-09-17 | 10 | 34 | 5 | 7 | 2 | 49 |
+| last720d | 2024-09-22 | 20 | 61 | 5 | 18 | 2 | 79 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:30:21Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:58:55Z._
