@@ -26,11 +26,11 @@ Total: **36,708** lines of code across **473** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 6/13 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 632 · **Open PRs**: 2 · **Closed issues**: 249 · **Open issues**: 11 · **Commits**: 1117
+- **Releases**: 111 · **Merged PRs**: 632 · **Open PRs**: 3 · **Closed issues**: 249 · **Open issues**: 11 · **Commits**: 1117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 3 | 11 | 0 | 0 | 1 | 16 |
-| last60d | 2026-07-22 | 4 | 22 | 2 | 0 | 2 | 28 |
-| 90d | 2026-06-22 | 5 | 26 | 2 | 2 | 2 | 33 |
-| last180d | 2026-03-24 | 8 | 33 | 2 | 6 | 2 | 46 |
-| 360d | 2025-09-25 | 13 | 38 | 2 | 7 | 2 | 55 |
-| last720d | 2024-09-30 | 22 | 64 | 2 | 18 | 2 | 84 |
+| 30d | 2026-08-22 | 3 | 11 | 1 | 0 | 1 | 16 |
+| last60d | 2026-07-23 | 4 | 22 | 2 | 0 | 2 | 28 |
+| 90d | 2026-06-23 | 5 | 26 | 3 | 2 | 2 | 33 |
+| last180d | 2026-03-25 | 8 | 33 | 3 | 6 | 2 | 46 |
+| 360d | 2025-09-26 | 13 | 38 | 3 | 7 | 2 | 55 |
+| last720d | 2024-10-01 | 22 | 64 | 3 | 18 | 2 | 84 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:28:54Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:36:25Z._
