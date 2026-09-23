@@ -4,7 +4,7 @@
 
 Validation of best practices in your Kubernetes clusters
 
-[![x-cmd/install — polaris Code Quality Monitoring Repo Card](https://repo.x-cmd.io/polaris.svg)](https://x-cmd.com/install/polaris)
+[![x-cmd/install — polaris Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/polaris.svg)](https://x-cmd.com/install/polaris)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,389 · **Forks**: 230 · **Open issues**: 260 · **Contributors**: 56
+- **Stars**: 3,391 · **Forks**: 230 · **Open issues**: 260 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 12 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 4 | 23 | 1 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 5 | 27 | 2 | 2 | 2 | 0 |
-| last180d | 2026-03-26 | 8 | 34 | 2 | 6 | 2 | 0 |
-| 360d | 2025-09-27 | 13 | 39 | 2 | 7 | 2 | 0 |
-| last720d | 2024-10-02 | 22 | 64 | 2 | 18 | 2 | 85 |
+| 30d | 2026-08-24 | 3 | 12 | 0 | 0 | 1 | 17 |
+| last60d | 2026-07-25 | 4 | 23 | 1 | 0 | 2 | 29 |
+| 90d | 2026-06-25 | 5 | 27 | 2 | 2 | 2 | 34 |
+| last180d | 2026-03-27 | 8 | 34 | 2 | 6 | 2 | 47 |
+| 360d | 2025-09-28 | 13 | 39 | 2 | 7 | 2 | 56 |
+| last720d | 2024-10-03 | 22 | 63 | 2 | 17 | 2 | 84 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:37:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:45:17Z._
