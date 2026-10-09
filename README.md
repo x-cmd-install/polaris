@@ -14,11 +14,11 @@ x install polaris
 
 ## Code insight
 
-Total: **36,708** lines of code across **473** files in the top 5 languages.
+Total: **36,728** lines of code across **473** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 18,645 | 0 | 0 | 4 |
+| Json | 18,665 | 0 | 0 | 4 |
 | Yaml | 9,504 | 281 | 56 | 411 |
 | Go | 7,149 | 656 | 843 | 44 |
 | Css | 606 | 129 | 170 | 8 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.2.5` (2026-09-18)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-08
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 636 · **Open PRs**: 2 · **Closed issues**: 250 · **Open issues**: 11 · **Commits**: 1121
+- **Releases**: 111 · **Merged PRs**: 641 · **Open PRs**: 1 · **Closed issues**: 250 · **Open issues**: 11 · **Commits**: 1126
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 8 | 1 | 1 | 1 | 12 |
-| last60d | 2026-08-09 | 4 | 21 | 2 | 1 | 1 | 25 |
-| 90d | 2026-07-10 | 5 | 27 | 2 | 2 | 2 | 33 |
-| last180d | 2026-04-11 | 7 | 36 | 2 | 7 | 2 | 49 |
-| 360d | 2025-10-13 | 13 | 42 | 2 | 8 | 2 | 59 |
-| last720d | 2024-10-18 | 22 | 65 | 2 | 18 | 2 | 87 |
+| 30d | 2026-09-09 | 3 | 12 | 0 | 1 | 1 | 17 |
+| last60d | 2026-08-10 | 4 | 25 | 1 | 1 | 1 | 30 |
+| 90d | 2026-07-11 | 5 | 32 | 1 | 2 | 2 | 38 |
+| last180d | 2026-04-12 | 7 | 41 | 1 | 7 | 2 | 54 |
+| 360d | 2025-10-14 | 13 | 47 | 1 | 8 | 2 | 64 |
+| last720d | 2024-10-19 | 22 | 70 | 1 | 18 | 2 | 92 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:19:53Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:29:02Z._
