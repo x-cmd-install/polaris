@@ -26,13 +26,13 @@ x install polaris
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 5/11 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install polaris
 
 ## 流行度
 
-- **Star**: 3,393 · **Fork**: 230 · **开放 issue**: 261 · **贡献者**: 56
+- **Star**: 3,393 · **Fork**: 230 · **开放 issue**: 262 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 111 · **已合并 PR**: 641 · **开放 PR**: 1 · **已关闭 issue**: 250 · **开放 issue**: 11 · **提交数**: 1126
+- **发布数**: 111 · **已合并 PR**: 641 · **开放 PR**: 1 · **已关闭 issue**: 250 · **开放 issue**: 12 · **提交数**: 1126
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 3 | 12 | 0 | 1 | 0 | 12 |
-| last60d | 2026-08-12 | 3 | 25 | 1 | 1 | 1 | 29 |
-| 90d | 2026-07-13 | 5 | 32 | 1 | 2 | 2 | 38 |
-| last180d | 2026-04-14 | 7 | 41 | 1 | 7 | 2 | 53 |
-| 360d | 2025-10-16 | 13 | 47 | 1 | 8 | 2 | 64 |
-| last720d | 2024-10-21 | 22 | 70 | 1 | 18 | 2 | 92 |
+| 30d | 2026-09-12 | 3 | 12 | 0 | 1 | 1 | 12 |
+| last60d | 2026-08-13 | 3 | 25 | 1 | 1 | 2 | 29 |
+| 90d | 2026-07-14 | 5 | 32 | 1 | 2 | 3 | 38 |
+| last180d | 2026-04-15 | 7 | 41 | 1 | 7 | 3 | 53 |
+| 360d | 2025-10-17 | 13 | 47 | 1 | 8 | 3 | 64 |
+| last720d | 2024-10-22 | 22 | 70 | 1 | 18 | 3 | 92 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ polaris 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T07:02:26Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T07:23:28Z._
