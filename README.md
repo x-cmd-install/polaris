@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,393 · **Forks**: 230 · **Open issues**: 262 · **Contributors**: 56
+- **Stars**: 3,396 · **Forks**: 230 · **Open issues**: 262 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 12 | 0 | 1 | 1 | 12 |
-| last60d | 2026-08-14 | 3 | 25 | 1 | 1 | 2 | 29 |
-| 90d | 2026-07-15 | 5 | 32 | 1 | 2 | 3 | 38 |
-| last180d | 2026-04-16 | 7 | 41 | 1 | 7 | 3 | 53 |
-| 360d | 2025-10-18 | 13 | 47 | 1 | 8 | 3 | 64 |
-| last720d | 2024-10-23 | 21 | 70 | 1 | 17 | 3 | 91 |
+| 30d | 2026-09-14 | 3 | 11 | 0 | 1 | 1 | 12 |
+| last60d | 2026-08-15 | 3 | 25 | 1 | 1 | 2 | 29 |
+| 90d | 2026-07-16 | 5 | 32 | 1 | 2 | 3 | 38 |
+| last180d | 2026-04-17 | 7 | 41 | 1 | 7 | 3 | 53 |
+| 360d | 2025-10-19 | 13 | 47 | 1 | 8 | 3 | 64 |
+| last720d | 2024-10-24 | 21 | 70 | 1 | 17 | 3 | 91 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:18:27Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:16:33Z._
