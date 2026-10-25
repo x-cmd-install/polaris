@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 8 | 3 | 2 | 3 | 8 |
-| last60d | 2026-08-25 | 3 | 20 | 3 | 3 | 4 | 26 |
-| 90d | 2026-07-26 | 4 | 31 | 3 | 3 | 5 | 37 |
-| last180d | 2026-04-27 | 6 | 36 | 3 | 7 | 5 | 42 |
-| 360d | 2025-10-29 | 13 | 47 | 3 | 10 | 5 | 64 |
-| last720d | 2024-11-03 | 21 | 66 | 3 | 19 | 5 | 91 |
+| 30d | 2026-09-25 | 0 | 7 | 3 | 2 | 3 | 5 |
+| last60d | 2026-08-26 | 3 | 18 | 3 | 3 | 4 | 23 |
+| 90d | 2026-07-27 | 4 | 29 | 3 | 3 | 5 | 37 |
+| last180d | 2026-04-28 | 5 | 36 | 3 | 7 | 5 | 42 |
+| 360d | 2025-10-30 | 13 | 46 | 3 | 10 | 5 | 63 |
+| last720d | 2024-11-04 | 21 | 66 | 3 | 19 | 5 | 91 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:43:42Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:53:19Z._
