@@ -26,13 +26,13 @@ Total: **36,734** lines of code across **473** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.2.5` (2026-09-18)
-- **Last commit**: 2026-11-02
+- **Latest**: `v10.2.6` (2026-11-03)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,39 +52,39 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 644 · **Open PRs**: 3 · **Closed issues**: 252 · **Open issues**: 14 · **Commits**: 1130
+- **Releases**: 112 · **Merged PRs**: 645 · **Open PRs**: 4 · **Closed issues**: 252 · **Open issues**: 14 · **Commits**: 1132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 7 | 3 | 2 | 3 | 4 |
-| last60d | 2026-09-04 | 3 | 17 | 3 | 3 | 4 | 22 |
-| 90d | 2026-08-05 | 4 | 30 | 3 | 3 | 4 | 34 |
-| last180d | 2026-05-07 | 5 | 39 | 3 | 7 | 5 | 46 |
-| 360d | 2025-11-08 | 12 | 49 | 3 | 10 | 5 | 67 |
-| last720d | 2024-11-13 | 21 | 68 | 3 | 19 | 5 | 91 |
+| 30d | 2026-10-05 | 1 | 8 | 4 | 2 | 3 | 6 |
+| last60d | 2026-09-05 | 4 | 18 | 4 | 3 | 4 | 24 |
+| 90d | 2026-08-06 | 5 | 30 | 4 | 3 | 4 | 36 |
+| last180d | 2026-05-08 | 6 | 40 | 4 | 7 | 5 | 48 |
+| 360d | 2025-11-09 | 13 | 50 | 4 | 10 | 5 | 69 |
+| last720d | 2024-11-14 | 21 | 69 | 4 | 19 | 5 | 92 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/checksums.txt) | 704 B | `other` |
-| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/checksums.txt.sigstore.json) | 3.5 KiB | `other` |
-| [polaris_10.2.5_darwin_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_darwin_amd64.tar.gz) | 15.8 MiB | `native/darwin/x64` |
-| [polaris_10.2.5_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_darwin_amd64.tar.gz.sigstore.json) | 3.6 KiB | `native/darwin/x64` |
-| [polaris_10.2.5_darwin_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_darwin_arm64.tar.gz) | 14.4 MiB | `native/darwin/arm64` |
-| [polaris_10.2.5_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_darwin_arm64.tar.gz.sigstore.json) | 3.6 KiB | `native/darwin/arm64` |
-| [polaris_10.2.5_linux_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_amd64.tar.gz) | 15.5 MiB | `native/linux/x64` |
-| [polaris_10.2.5_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_amd64.tar.gz.sigstore.json) | 3.5 KiB | `native/linux/x64` |
-| [polaris_10.2.5_linux_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
-| [polaris_10.2.5_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_arm64.tar.gz.sigstore.json) | 3.6 KiB | `native/linux/arm64` |
-| [polaris_10.2.5_linux_armv6.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_armv6.tar.gz) | 14.6 MiB | `native/linux/arm` |
-| [polaris_10.2.5_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_armv6.tar.gz.sigstore.json) | 3.5 KiB | `native/linux/arm` |
-| [polaris_10.2.5_linux_armv7.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_armv7.tar.gz) | 14.6 MiB | `native/linux/arm` |
-| [polaris_10.2.5_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_linux_armv7.tar.gz.sigstore.json) | 3.6 KiB | `native/linux/arm` |
-| [polaris_10.2.5_windows_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_windows_amd64.tar.gz) | 16.0 MiB | `native/win/x64` |
-| [polaris_10.2.5_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.5/polaris_10.2.5_windows_amd64.tar.gz.sigstore.json) | 3.6 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/checksums.txt) | 704 B | `other` |
+| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/checksums.txt.sigstore.json) | 3.9 KiB | `other` |
+| [polaris_10.2.6_darwin_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_amd64.tar.gz) | 15.9 MiB | `native/darwin/x64` |
+| [polaris_10.2.6_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/darwin/x64` |
+| [polaris_10.2.6_darwin_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
+| [polaris_10.2.6_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_arm64.tar.gz.sigstore.json) | 3.9 KiB | `native/darwin/arm64` |
+| [polaris_10.2.6_linux_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_amd64.tar.gz) | 15.6 MiB | `native/linux/x64` |
+| [polaris_10.2.6_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/x64` |
+| [polaris_10.2.6_linux_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
+| [polaris_10.2.6_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_arm64.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/arm64` |
+| [polaris_10.2.6_linux_armv6.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv6.tar.gz) | 14.7 MiB | `native/linux/arm` |
+| [polaris_10.2.6_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv6.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/arm` |
+| [polaris_10.2.6_linux_armv7.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv7.tar.gz) | 14.7 MiB | `native/linux/arm` |
+| [polaris_10.2.6_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv7.tar.gz.sigstore.json) | 4.1 KiB | `native/linux/arm` |
+| [polaris_10.2.6_windows_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_windows_amd64.tar.gz) | 16.0 MiB | `native/win/x64` |
+| [polaris_10.2.6_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_windows_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:11:00Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:56:33Z._
