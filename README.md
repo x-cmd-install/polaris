@@ -30,9 +30,9 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,400 · **Forks**: 229 · **Open issues**: 266 · **Contributors**: 56
+- **Stars**: 3,401 · **Forks**: 229 · **Open issues**: 266 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 8 | 3 | 2 | 3 | 10 |
-| last60d | 2026-09-09 | 4 | 20 | 3 | 3 | 4 | 23 |
-| 90d | 2026-08-10 | 5 | 33 | 3 | 3 | 4 | 40 |
-| last180d | 2026-05-12 | 6 | 44 | 3 | 7 | 5 | 52 |
-| 360d | 2025-11-13 | 13 | 54 | 3 | 9 | 5 | 73 |
-| last720d | 2024-11-18 | 21 | 73 | 3 | 19 | 5 | 96 |
+| 30d | 2026-10-11 | 1 | 8 | 3 | 2 | 2 | 10 |
+| last60d | 2026-09-11 | 4 | 20 | 3 | 3 | 3 | 23 |
+| 90d | 2026-08-12 | 4 | 33 | 3 | 3 | 4 | 40 |
+| last180d | 2026-05-14 | 6 | 44 | 3 | 7 | 5 | 52 |
+| 360d | 2025-11-15 | 13 | 54 | 3 | 9 | 5 | 73 |
+| last720d | 2024-11-20 | 21 | 73 | 3 | 19 | 5 | 96 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:19:05Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:00:49Z._

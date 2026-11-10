@@ -30,9 +30,9 @@ x install polaris
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install polaris
 
 ## 流行度
 
-- **Star**: 3,400 · **Fork**: 229 · **开放 issue**: 266 · **贡献者**: 56
+- **Star**: 3,401 · **Fork**: 229 · **开放 issue**: 266 · **贡献者**: 56
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install polaris
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 8 | 3 | 2 | 3 | 10 |
-| last60d | 2026-09-09 | 4 | 20 | 3 | 3 | 4 | 23 |
-| 90d | 2026-08-10 | 5 | 33 | 3 | 3 | 4 | 40 |
-| last180d | 2026-05-12 | 6 | 44 | 3 | 7 | 5 | 52 |
-| 360d | 2025-11-13 | 13 | 54 | 3 | 9 | 5 | 73 |
-| last720d | 2024-11-18 | 21 | 73 | 3 | 19 | 5 | 96 |
+| 30d | 2026-10-11 | 1 | 8 | 3 | 2 | 2 | 10 |
+| last60d | 2026-09-11 | 4 | 20 | 3 | 3 | 3 | 23 |
+| 90d | 2026-08-12 | 4 | 33 | 3 | 3 | 4 | 40 |
+| last180d | 2026-05-14 | 6 | 44 | 3 | 7 | 5 | 52 |
+| 360d | 2025-11-15 | 13 | 54 | 3 | 9 | 5 | 73 |
+| last720d | 2024-11-20 | 21 | 73 | 3 | 19 | 5 | 96 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ polaris 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:19:06Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T09:00:50Z._
