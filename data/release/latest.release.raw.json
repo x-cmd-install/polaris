@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 704,
       "digest": "sha256:58dc1ac4ccd26cfb4aba3d10a894e90c3dc361c7d8b4a9c2aab809e539f53395",
-      "download_count": 176,
+      "download_count": 219,
       "created_at": "2026-11-03T19:14:32Z",
       "updated_at": "2026-11-03T19:14:32Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4041,
       "digest": "sha256:3bbd63be896dba0021645e45e714576d9c970c04be3957a65d9d2132951d9b49",
-      "download_count": 35,
+      "download_count": 47,
       "created_at": "2026-11-03T19:14:33Z",
       "updated_at": "2026-11-03T19:14:34Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16663907,
       "digest": "sha256:e716e37b3a4eaa0af6a76f5f46caf5dc3384094155659c01fa786c1f9f0633ce",
-      "download_count": 38,
+      "download_count": 46,
       "created_at": "2026-11-03T19:14:29Z",
       "updated_at": "2026-11-03T19:14:31Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15219640,
       "digest": "sha256:6c92a34f3db0f6a00434c8eb7e7a6e68388f1e6371ce7b12cd8ddac8029ddaaa",
-      "download_count": 108,
+      "download_count": 124,
       "created_at": "2026-11-03T19:14:31Z",
       "updated_at": "2026-11-03T19:14:32Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16330922,
       "digest": "sha256:87856194124409f7f21912775c0d6ac0804061ddaded5b527a1326f1850e9491",
-      "download_count": 974,
+      "download_count": 1243,
       "created_at": "2026-11-03T19:14:29Z",
       "updated_at": "2026-11-03T19:14:30Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14488252,
       "digest": "sha256:e1c2774aa8100c6c5c23f2aa49cbf02476fd7b43a226a6372b405b6772acb585",
-      "download_count": 69,
+      "download_count": 77,
       "created_at": "2026-11-03T19:14:29Z",
       "updated_at": "2026-11-03T19:14:30Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 16809322,
       "digest": "sha256:75547305577721384c3ccfd64012688eb0cf28dbe95e9eec6b076f4d224f5a84",
-      "download_count": 37,
+      "download_count": 46,
       "created_at": "2026-11-03T19:14:29Z",
       "updated_at": "2026-11-03T19:14:31Z",
       "browser_download_url": "https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_windows_amd64.tar.gz"
