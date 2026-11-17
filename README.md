@@ -26,13 +26,13 @@ Total: **21,609** lines of code across **484** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.2.6` (2026-11-03)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-16
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 3,401 · **Forks**: 229 · **Open issues**: 266 · **Contributors**: 56
+- **Stars**: 3,403 · **Forks**: 229 · **Open issues**: 266 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 650 · **Open PRs**: 4 · **Closed issues**: 252 · **Open issues**: 14 · **Commits**: 1137
+- **Releases**: 112 · **Merged PRs**: 652 · **Open PRs**: 4 · **Closed issues**: 253 · **Open issues**: 13 · **Commits**: 1139
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 9 | 1 | 0 | 0 | 11 |
-| last60d | 2026-09-17 | 2 | 19 | 4 | 2 | 3 | 19 |
-| 90d | 2026-08-18 | 4 | 33 | 4 | 3 | 4 | 37 |
-| last180d | 2026-05-20 | 6 | 44 | 4 | 7 | 5 | 53 |
-| 360d | 2025-11-21 | 13 | 55 | 4 | 9 | 5 | 74 |
-| last720d | 2024-11-26 | 21 | 70 | 4 | 19 | 5 | 97 |
+| 30d | 2026-10-18 | 1 | 11 | 1 | 0 | 0 | 13 |
+| last60d | 2026-09-18 | 2 | 20 | 4 | 2 | 3 | 21 |
+| 90d | 2026-08-19 | 4 | 34 | 4 | 4 | 3 | 39 |
+| last180d | 2026-05-21 | 6 | 46 | 4 | 7 | 4 | 55 |
+| 360d | 2025-11-22 | 13 | 57 | 4 | 10 | 4 | 76 |
+| last720d | 2024-11-27 | 21 | 72 | 4 | 20 | 4 | 99 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:35:03Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:26:57Z._
