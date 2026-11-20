@@ -14,15 +14,15 @@ x install polaris
 
 ## Code insight
 
-Total: **21,609** lines of code across **484** files in the top 5 languages.
+Total: **21,960** lines of code across **484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 9,504 | 281 | 56 | 411 |
 | Go | 7,149 | 656 | 843 | 44 |
-| Json | 3,075 | 0 | 0 | 4 |
+| Json | 3,426 | 0 | 0 | 4 |
 | Css | 606 | 129 | 170 | 8 |
-| Svg | 580 | 3 | 1 | 17 |
+| Svg | 580 | 4 | 1 | 17 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.2.6` (2026-11-03)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 654 · **Open PRs**: 4 · **Closed issues**: 253 · **Open issues**: 13 · **Commits**: 1141
+- **Releases**: 112 · **Merged PRs**: 658 · **Open PRs**: 5 · **Closed issues**: 253 · **Open issues**: 13 · **Commits**: 1157
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 13 | 1 | 0 | 0 | 15 |
-| last60d | 2026-09-20 | 1 | 22 | 4 | 2 | 3 | 23 |
-| 90d | 2026-08-21 | 4 | 33 | 4 | 4 | 3 | 41 |
-| last180d | 2026-05-23 | 6 | 48 | 4 | 7 | 4 | 57 |
-| 360d | 2025-11-24 | 13 | 59 | 4 | 10 | 4 | 78 |
-| last720d | 2024-11-29 | 21 | 74 | 4 | 19 | 4 | 101 |
+| 30d | 2026-10-21 | 1 | 17 | 2 | 0 | 0 | 31 |
+| last60d | 2026-09-21 | 1 | 25 | 5 | 2 | 3 | 39 |
+| 90d | 2026-08-22 | 4 | 37 | 5 | 4 | 3 | 57 |
+| last180d | 2026-05-24 | 6 | 52 | 5 | 7 | 4 | 73 |
+| 360d | 2025-11-25 | 13 | 63 | 5 | 10 | 4 | 94 |
+| last720d | 2024-11-30 | 21 | 78 | 5 | 19 | 4 | 117 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:16:01Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:51:40Z._
