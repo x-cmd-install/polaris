@@ -42,49 +42,49 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.2.6` (2026-11-03)
+- **Latest**: `v10.2.7` (2026-11-25)
 - **Last commit**: 2026-11-23
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 3,402 · **Forks**: 230 · **Open issues**: 266 · **Contributors**: 56
+- **Stars**: 3,403 · **Forks**: 230 · **Open issues**: 266 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 659 · **Open PRs**: 4 · **Closed issues**: 253 · **Open issues**: 13 · **Commits**: 1162
+- **Releases**: 113 · **Merged PRs**: 659 · **Open PRs**: 4 · **Closed issues**: 253 · **Open issues**: 13 · **Commits**: 1162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 18 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 1 | 25 | 4 | 2 | 3 | 0 |
-| 90d | 2026-08-27 | 4 | 36 | 4 | 4 | 3 | 0 |
-| last180d | 2026-05-29 | 6 | 53 | 4 | 7 | 4 | 0 |
-| 360d | 2025-11-30 | 13 | 64 | 4 | 10 | 4 | 0 |
-| last720d | 2024-12-05 | 21 | 79 | 4 | 19 | 4 | 122 |
+| 30d | 2026-10-27 | 2 | 18 | 1 | 0 | 0 | 36 |
+| last60d | 2026-09-27 | 2 | 25 | 4 | 2 | 3 | 43 |
+| 90d | 2026-08-28 | 5 | 36 | 4 | 4 | 3 | 59 |
+| last180d | 2026-05-30 | 7 | 53 | 4 | 7 | 4 | 78 |
+| 360d | 2025-12-01 | 14 | 64 | 4 | 10 | 4 | 99 |
+| last720d | 2024-12-06 | 22 | 79 | 4 | 19 | 4 | 118 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/checksums.txt) | 704 B | `other` |
-| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/checksums.txt.sigstore.json) | 3.9 KiB | `other` |
-| [polaris_10.2.6_darwin_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_amd64.tar.gz) | 15.9 MiB | `native/darwin/x64` |
-| [polaris_10.2.6_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/darwin/x64` |
-| [polaris_10.2.6_darwin_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
-| [polaris_10.2.6_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_darwin_arm64.tar.gz.sigstore.json) | 3.9 KiB | `native/darwin/arm64` |
-| [polaris_10.2.6_linux_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_amd64.tar.gz) | 15.6 MiB | `native/linux/x64` |
-| [polaris_10.2.6_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/x64` |
-| [polaris_10.2.6_linux_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
-| [polaris_10.2.6_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_arm64.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/arm64` |
-| [polaris_10.2.6_linux_armv6.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv6.tar.gz) | 14.7 MiB | `native/linux/arm` |
-| [polaris_10.2.6_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv6.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/arm` |
-| [polaris_10.2.6_linux_armv7.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv7.tar.gz) | 14.7 MiB | `native/linux/arm` |
-| [polaris_10.2.6_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_linux_armv7.tar.gz.sigstore.json) | 4.1 KiB | `native/linux/arm` |
-| [polaris_10.2.6_windows_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_windows_amd64.tar.gz) | 16.0 MiB | `native/win/x64` |
-| [polaris_10.2.6_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.6/polaris_10.2.6_windows_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/checksums.txt) | 704 B | `other` |
+| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/checksums.txt.sigstore.json) | 3.6 KiB | `other` |
+| [polaris_10.2.7_darwin_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_darwin_amd64.tar.gz) | 15.9 MiB | `native/darwin/x64` |
+| [polaris_10.2.7_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_darwin_amd64.tar.gz.sigstore.json) | 3.9 KiB | `native/darwin/x64` |
+| [polaris_10.2.7_darwin_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
+| [polaris_10.2.7_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_darwin_arm64.tar.gz.sigstore.json) | 3.6 KiB | `native/darwin/arm64` |
+| [polaris_10.2.7_linux_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_amd64.tar.gz) | 15.6 MiB | `native/linux/x64` |
+| [polaris_10.2.7_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_amd64.tar.gz.sigstore.json) | 3.8 KiB | `native/linux/x64` |
+| [polaris_10.2.7_linux_arm64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
+| [polaris_10.2.7_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_arm64.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/arm64` |
+| [polaris_10.2.7_linux_armv6.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_armv6.tar.gz) | 14.7 MiB | `native/linux/arm` |
+| [polaris_10.2.7_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_armv6.tar.gz.sigstore.json) | 3.8 KiB | `native/linux/arm` |
+| [polaris_10.2.7_linux_armv7.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_armv7.tar.gz) | 14.7 MiB | `native/linux/arm` |
+| [polaris_10.2.7_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_linux_armv7.tar.gz.sigstore.json) | 3.8 KiB | `native/linux/arm` |
+| [polaris_10.2.7_windows_amd64.tar.gz](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_windows_amd64.tar.gz) | 16.0 MiB | `native/win/x64` |
+| [polaris_10.2.7_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/polaris/releases/download/v10.2.7/polaris_10.2.7_windows_amd64.tar.gz.sigstore.json) | 3.6 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for polaris lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:26:18Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:25:18Z._
